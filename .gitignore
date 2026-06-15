@@ -1,0 +1,16 @@
+__pycache__/
+.env
+.vscode/
+.ipynb_checkpoints/
+
+vectorStore/
+chroma.sqlite3
+
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+.venv/
+
+*.log
